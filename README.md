@@ -1,6 +1,8 @@
 
-
+<p align="center">
 ![Brexit](./images/brexit_small.jpg)
+  <img width="460" height="300" src="/images/brexit_small.jpg>
+</p>
 
 # Proyecto Fin del Máster en Big Data y Business Analytics
 
