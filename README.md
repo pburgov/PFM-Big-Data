@@ -1,4 +1,9 @@
+<html>
+<head>
 <link rel="stylesheet" type="text/css" media="all" href="./css/custom.css" />
+</head>
+
+<body>
 
 ![Brexit](./images/brexit_small.jpg)
 # Proyecto Fin del Máster en Big Data y Business Analytics
@@ -12,13 +17,11 @@ Para la realización del Proyecto Fin de Máster, he escogido la opción relativ
 - Porque llama poderosamente la atención la tendencia de UK al aislamiento, precisamente en el mundo con tintes globales en el que nos encontramos, y en el que, metafóricamente hablando, un gran número de fronteras se están diluyendo.
 
 
-### 1 Objetivo del estudio 
+#### 1 Objetivo del estudio 
 
 El objetivo principal es el de buscar posibles causas o relaciones comunes, existentes entre los distintos distritos electorales, que hayan decantado el resultado final hacia la salida de la UE.
 
-### 2 <em>Datasets</em> de trabajo
-
-#### 2.1 Descripción
+#### 2 *Datasets* de trabajo
 
 El dataset principal es uno de los 4 propuestos por el claustro del Máster, y que se encuentra disponible en la web [kaggle](https://www.kaggle.com/) bajo el epígrafe [2016 EU Referendum in the United Kingdom ](https://www.kaggle.com/electoralcommission/brexit-results). Dicho *dataset* consta de 2 archivos con formato *csv*:
 - **census.csv**: En el se recogen los datos censales de los distintos distritos de Inglaterra, Gales, Escocia e Irlanda del Norte. Los primeros 44 registros del archivo muestran los datos agregados primero por país, luego por región y finalmente por condado. Los 380 registros restantes corresponden a los datos desglosados por distrito. 
@@ -27,7 +30,7 @@ El dataset principal es uno de los 4 propuestos por el claustro del Máster, y q
 
 - **referendum.csv**: En este fichero se recogen los datos principales de las votaciones realizadas en cada uno de los distritos tales como, asistencia, votos esperados, votos válidos y rechazados,  valores y porcentajes resultantes del escrutinio, etc.
 
-![referendum](![census](https://pburgov.github.io/referendum.jpg))
+![referendum](https://pburgov.github.io/referendum.jpg)
 
 Como complementación de este *dataset*, a partir de los datos proporcionados por la web oficial de UK [Nomis - Official Labour Market Statistics](https://www.nomisweb.co.uk) he creado un nuevo archivo también con formato *csv* denominado **social.csv**.
 Dicho archivo contiene los siguientes campos:
@@ -38,5 +41,7 @@ Dicho archivo contiene los siguientes campos:
 - **ESA**: Ratio de gente que recibe una prestación por desempleo, (*Double*)
 - **coast**: Indica que el distrito está en la costa. Esta variable parte de la premisa tradicional, quizás errónea, de que los pueblos costeros por su mayor contacto con otras culturas son más abiertos que los pueblos de interior. Éstos por su mayor aislamiento geográfico, se encuentran más encerrados en sí mismos, y por tanto podría contribuir a que el voto de la gente se decantase por el Brexit (*Integer* Valores 1/0)
 
-![social](![census](https://pburgov.github.io/social.jpg))
+![social](https://pburgov.github.io/social.jpg)
 
+</body>
+</html>
