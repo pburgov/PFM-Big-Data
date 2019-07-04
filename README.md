@@ -1,13 +1,12 @@
-<link href="https://pburgov.github.io/custom.css" rel="stylesheet"></link>
+
 
 ![Brexit](./images/brexit_small.jpg)
+
 # Proyecto Fin del Máster en Big Data y Business Analytics
-PFM del <a>[Máster Telefónica en Big Data y Business Analytics](https://www.campusbigdata.com/master-en-big-data-aplicado-y-business-analytics)</a> realizado tomando como estudio los resultados del Referendum del *Brexit* en UK.
-Se ha utilizado como datasets los proporcionados por la web [kaggle](https://www.kaggle.com/) bajo el epígrafe [ 2016 EU Referendum in the United Kingdom](https://www.kaggle.com/electoralcommission/brexit-results)
 
 ## Introducción
 
-Para la realización del Proyecto Fin de Máster, he escogido la opción relativa a los resultados del Brexit. Esta elección se justifica en que desde el anuncio por parte de James Cameron en 2013 de la realización del Referendum, la eventual salida del **Reino Unido** de la **UE** me ha provocado un gran interés por 2 motivos:
+Para la realización del Proyecto Fin de [Máster Telefónica en Big Data y Business Analytics](https://www.campusbigdata.com/master-en-big-data-aplicado-y-business-analytics),  se ha escogido la opción relativa a los resultados del *Brexit*. Esta elección se justifica en que desde el anuncio por parte de James Cameron en 2013 de la realización del Referendum, la eventual salida del **Reino Unido** de la **UE** me ha provocado un gran interés por 2 motivos:
 - En primer lugar y fundamentalmente por la posible resaca, que derivada de tal decisión, pudiera sufrir la UE y por tanto España.
 - Porque llama poderosamente la atención la tendencia de UK al aislamiento, precisamente en el mundo con tintes globales en el que nos encontramos, y en el que, metafóricamente hablando, un gran número de fronteras se están diluyendo.
 
@@ -37,3 +36,14 @@ Dicho archivo contiene los siguientes campos:
 
 ![social](https://pburgov.github.io/social.jpg)
 
+#### 3. Ámbito estudio. Inglaterra, Gales y Escocia
+
+
+
+El *dataset* **referendum** no recoge los datos segregados por distrito de **Irlanda del Norte**. De la misma manera, el *dataset* **census** no contiene los datos de Gibraltar, por ello se prescinde de ambos, limitándose el estudio a Inglaterra, Gales y Escocia
+
+
+
+#### 4. Recursos
+
+El PFM se puede visualizar en el enlace [Proyecto Fin de Máster](https://pburgov.github.io/PFM-BREXIT.html). Asimismo, a través del enlace [PFM-Dashboard](https://public.tableau.com/profile/pedro.burgo#!/vizhome/PFM-BREXIT/Prediccion) es posible acceder al *dashboard* de **Tableau**.
