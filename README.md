@@ -1,10 +1,12 @@
- <head>
- <link rel="stylesheet" type="text/css" media="all" href="https://pburgov.github.io/custom.css" />
- </head>
-<div>
-<p><img src="https://pburgov.github.io/brexit-small.jpg" alt="Brexit" /></p>
-</div>
 
+ <link rel="stylesheet" type="text/css" media="all" href="https://pburgov.github.io/custom.css" /><title></title>
+
+
+
+<p><img src="https://pburgov.github.io/brexit-small.jpg" alt="Brexit" /></p>
+
+
+![Brexit](./images/brexit-small.jpg)
 # Proyecto Fin del Máster en Big Data y Business Analytics
 PFM del [Máster Telefónica en Big Data y Business Analytics](https://www.campusbigdata.com/master-en-big-data-aplicado-y-business-analytics) realizado tomando como estudio los resultados del Referendum del *Brexit* en UK.
 Se ha utilizado como datasets los proporcionados por la web [kaggle](https://www.kaggle.com/) bajo el epígrafe [ 2016 EU Referendum in the United Kingdom](https://www.kaggle.com/electoralcommission/brexit-results)
