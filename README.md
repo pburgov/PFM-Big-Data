@@ -1,7 +1,8 @@
  
- <link rel="stylesheet" type="text/css" media="all" href="https://github.com/pburgov/pburgov.github.io/blob/master/custom.css" />
-<p><img src="https://pburgov.github.io/brexit3.jpg" alt="Brexit" style="width: 300px; margin:auto; padding: 0px; border-radius: 8%;"/></p>
-
+ <link rel="stylesheet" type="text/css" media="all" href="css/custom.css" />
+<div>
+<p><img src="https://pburgov.github.io/brexit3.jpg" alt="Brexit" style="width: 100px; margin:auto; padding: 0px; border-radius: 8%;"/></p>
+</div>
 
 # Proyecto Fin del Máster en Big Data y Business Analytics
 PFM del [Máster Telefónica en Big Data y Business Analytics](https://www.campusbigdata.com/master-en-big-data-aplicado-y-business-analytics) realizado tomando como estudio los resultados del Referendum del *Brexit* en UK.
