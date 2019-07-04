@@ -1,7 +1,7 @@
  
  <link rel="stylesheet" type="text/css" media="all" href="css/custom.css" />
 <div>
-<p><img src="https://pburgov.github.io/brexit3.jpg" alt="Brexit" style="width: 100px; margin:auto; padding: 0px; border-radius: 8%;"/></p>
+<p><img src="https://pburgov.github.io/brexit-small.jpg" alt="Brexit" /></p>
 </div>
 
 # Proyecto Fin del Máster en Big Data y Business Analytics
