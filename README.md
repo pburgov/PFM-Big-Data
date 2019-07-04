@@ -6,7 +6,7 @@
 
 ## Introducción
 
-Para la realización del Proyecto Fin de [Máster Telefónica en Big Data y Business Analytics](https://www.campusbigdata.com/master-en-big-data-aplicado-y-business-analytics),  se ha escogido la opción relativa a los resultados del *Brexit*. Esta elección se justifica en que desde el anuncio por parte de James Cameron en 2013 de la realización del Referendum, la eventual salida del **Reino Unido** de la **UE** me ha provocado un gran interés por 2 motivos:
+Para la realización del Proyecto Fin de [Máster Telefónica en Big Data y Business Analytics](https://www.campusbigdata.com/master-en-big-data-aplicado-y-business-analytics),  se ha escogido la opción relativa a los resultados del *Brexit*. Esta elección se justifica en que desde el anuncio por parte de James Cameron en 2013 de la realización del Referendum, la eventual salida del **Reino Unido** de la **UE** ha provocado un gran interés por 2 motivos:
 - En primer lugar y fundamentalmente por la posible resaca, que derivada de tal decisión, pudiera sufrir la UE y por tanto España.
 - Porque llama poderosamente la atención la tendencia de UK al aislamiento, precisamente en el mundo con tintes globales en el que nos encontramos, y en el que, metafóricamente hablando, un gran número de fronteras se están diluyendo.
 
