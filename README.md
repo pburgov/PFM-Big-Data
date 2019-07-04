@@ -1,7 +1,6 @@
 
 <p align="center">
-![Brexit](./images/brexit_small.jpg)
-  <img width="460" height="300" src="/images/brexit_small.jpg>
+  <img width="460" height="300" src="https://raw.githubusercontent.com/pburgov/PFM-Big-Data/master/images/brexit_small.jpg">
 </p>
 
 # Proyecto Fin del Máster en Big Data y Business Analytics
@@ -22,10 +21,16 @@ El dataset principal es uno de los 4 propuestos por el claustro del Máster, y q
 - **census.csv**: En el se recogen los datos censales de los distintos distritos de Inglaterra, Gales, Escocia e Irlanda del Norte. Los primeros 44 registros del archivo muestran los datos agregados primero por país, luego por región y finalmente por condado. Los 380 registros restantes corresponden a los datos desglosados por distrito. 
 
 ![census](https://pburgov.github.io/census.jpg)
+<p align="center">
+  <img width="460" height="300" src="https://pburgov.github.io/census.jpg" alt="census">
+</p>
 
 - **referendum.csv**: En este fichero se recogen los datos principales de las votaciones realizadas en cada uno de los distritos tales como, asistencia, votos esperados, votos válidos y rechazados,  valores y porcentajes resultantes del escrutinio, etc.
 
 ![referendum](https://pburgov.github.io/referendum.jpg)
+<p align="center">
+  <img width="460" height="300" src="https://pburgov.github.io/referendum.jpg" alt="referendum">
+</p>
 
 Como complementación de este *dataset*, a partir de los datos proporcionados por la web oficial de UK [Nomis - Official Labour Market Statistics](https://www.nomisweb.co.uk) he creado un nuevo archivo también con formato *csv* denominado **social.csv**.
 Dicho archivo contiene los siguientes campos:
@@ -37,6 +42,11 @@ Dicho archivo contiene los siguientes campos:
 - **coast**: Indica que el distrito está en la costa. Esta variable parte de la premisa tradicional, quizás errónea, de que los pueblos costeros por su mayor contacto con otras culturas son más abiertos que los pueblos de interior. Éstos por su mayor aislamiento geográfico, se encuentran más encerrados en sí mismos, y por tanto podría contribuir a que el voto de la gente se decantase por el Brexit (*Integer* Valores 1/0)
 
 ![social](https://pburgov.github.io/social.jpg)
+
+<p align="center">
+  <img width="460" height="300" src="https://pburgov.github.io/social.jpg" alt="social">
+</p>
+
 
 #### 3. Ámbito estudio. Inglaterra, Gales y Escocia
 
