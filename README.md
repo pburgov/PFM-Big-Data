@@ -1,9 +1,4 @@
-<html>
-<head>
-<link rel="stylesheet" type="text/css" media="all" href="./css/custom.css" />
-</head>
-
-<body>
+<link href="https://pburgov.github.io/custom.css" rel="stylesheet"></link>
 
 ![Brexit](./images/brexit_small.jpg)
 # Proyecto Fin del Máster en Big Data y Business Analytics
@@ -15,7 +10,6 @@ Se ha utilizado como datasets los proporcionados por la web [kaggle](https://www
 Para la realización del Proyecto Fin de Máster, he escogido la opción relativa a los resultados del Brexit. Esta elección se justifica en que desde el anuncio por parte de James Cameron en 2013 de la realización del Referendum, la eventual salida del **Reino Unido** de la **UE** me ha provocado un gran interés por 2 motivos:
 - En primer lugar y fundamentalmente por la posible resaca, que derivada de tal decisión, pudiera sufrir la UE y por tanto España.
 - Porque llama poderosamente la atención la tendencia de UK al aislamiento, precisamente en el mundo con tintes globales en el que nos encontramos, y en el que, metafóricamente hablando, un gran número de fronteras se están diluyendo.
-
 
 #### 1 Objetivo del estudio 
 
@@ -43,5 +37,3 @@ Dicho archivo contiene los siguientes campos:
 
 ![social](https://pburgov.github.io/social.jpg)
 
-</body>
-</html>
