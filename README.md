@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="460" height="300" src="https://raw.githubusercontent.com/pburgov/PFM-Big-Data/master/images/brexit_small.jpg">
+  <img width="460" height="300" src="https://raw.githubusercontent.com/pburgov/PFM-Big-Data/master/images/brexit_small.jpg" style="width: 300px; margin:auto; padding: 0px; border-radius: 8%;">
 </p>
 
 # Proyecto Fin del Máster en Big Data y Business Analytics
